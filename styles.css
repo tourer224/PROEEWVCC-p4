@@ -10,7 +10,7 @@ font-size: larger;
 font-family: Ubuntu Light, Segoe UI Light, Arial !important;
  scroll-behavior: smooth;
     text-align: center;
-background: linear-gradient(0deg,rgba(156, 168, 151)  10%, rgba(156, 168, 151) 90%); 
+background: linear-gradient(0deg,rgba(255, 255, 255)  10%, rgba(255, 255, 255) 90%); 
 }
 .bar {
 text-align: left;
