@@ -170,7 +170,7 @@ border-radius: 7px;
 }
 
 .noob{
-    width: 50%;
+    width: 100%;
     padding-top: 20px;
     font-size: 30px;
     padding-bottom: 40px;
@@ -181,7 +181,7 @@ border-radius: 7px;
     margin-top: 20px;
 }
 .inter{
-    width: 50%;
+    width: 100%;
     padding-top: 20px;
     font-size: 30px;
     padding-bottom: 40px;
@@ -193,7 +193,7 @@ border-radius: 7px;
 }
 
 .pro{
-    width: 50%;
+    width: 100%;
     padding-top: 20px;
     font-size: 30px;
     padding-bottom: 40px;
